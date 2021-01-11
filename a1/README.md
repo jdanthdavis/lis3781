@@ -7,20 +7,25 @@
 
 ## Justin Davis
 
-### Assignment # Requirements:
+### Assignment #1 Requirements:
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Distributed Version Control Setup
+2. Development Installation
+3. Entity Relationship Diagram
+4. Push your local repository to the one hosted by Bitbucket's servers: See *Part 1* (above)
+5. Provide me with *read-only* access to Bitbucket repository: See *Part 1* (above)
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshot of ampps installation running (#1 above);
+* git commands w/ short descriptions ("Lesson 3b - Version Control Systems: Course Configuration");
+* *Your* ERD image
+* Bitbucket repo Links:
+*     a. This assignment, and
+*     b. The completed tutorial repo above (bitbucketstationlocations).
+*        (See link in screenshot below.)
 
 > This is a blockquote.
 > 
