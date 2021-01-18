@@ -45,7 +45,7 @@
 
 *Screenshot of AMPPS running http://localhost*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![AMPPS Installation Screenshot](img/ampps_screenshot.png)
 
 *Screenshot of running java Hello*:
 
