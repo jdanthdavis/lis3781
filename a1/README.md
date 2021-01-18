@@ -43,18 +43,7 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
-
 ![AMPPS Installation Screenshot](img/ampps_screenshot.png)
-
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
 
 #### Tutorial Links:
 
