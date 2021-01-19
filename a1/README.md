@@ -23,10 +23,10 @@
 * git commands w/ short descriptions ("Lesson 3b - Version Control Systems: Course Configuration");
 * *Your* ERD image
 * Bitbucket repo Links:
-*     a. This assignment, and
-*     b. The completed tutorial repo above (bitbucketstationlocations).
-         (See link in screenshot below.)
-
+* Git commands w/ short descriptions
+* Bitbucket repo links:
+    * a. This assignment, and
+    * b. The completed tutorial repo above (bitbucketstationlocations).
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
