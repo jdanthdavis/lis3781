@@ -38,15 +38,17 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of SQL Code*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+My First App Page 1             |  My First App Page 2
+:-------------------------:|:-------------------------:
+![My First App Screenshot](img/sql1.png)  |  ![My First App Screenshot](img/sql2.png) 
 
-*Screenshot of running java Hello*:
+*Screenshot of populated tables*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
+My First App Page 1             |  My First App Page 2
+:-------------------------:|:-------------------------:
+![My First App Screenshot](img/table1.png)  |  ![My First App Screenshot](img/table2.png) 
 
 ![Android Studio Installation Screenshot](img/android.png)
 

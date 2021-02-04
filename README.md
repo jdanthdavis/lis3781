@@ -6,7 +6,7 @@ Justin Davis
 
 LIS3781 Requirements:
 
-*Course Work Links:*
+[comment]: <> (*Course Work Links:*)
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
     - Install Distributed Version Control
