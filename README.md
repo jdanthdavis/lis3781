@@ -15,7 +15,10 @@ LIS3781 Requirements:
     - Setup SSH Login Procedures
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - TBD
+    - Tables and insert statements
+    - Include indexes and foreign key SQL statements
+    - Include *your* query result sets, including grant statements
+    - The following tables should be created and populated with at least 5 records *both* locally and to the CCI server
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - TBD
