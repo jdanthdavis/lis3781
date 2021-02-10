@@ -20,20 +20,21 @@
 #### README.md file should include the following items:
 
 * Screenshot of *your* SQL Code.
-* Screenshot of *your* populated tables.
+* Screenshot of *your* populated tables (w/in the Oracle environment).
+* Optional: SQL code for the required reports.
+* Bitbucket repo links: *Your* lis3781 Bitbucket repo link.
 
 #### Assignment Screenshots:
 
 *Screenshot of SQL Code*:
 
-Screenshot of SS1             |  Screenshot of SS2             | Screenshot of SS3             
+Screenshot One of SQL Code             |  Screenshot Two of SQL Code             | Screenshot Three of SQL Code             
 :-------------------------:|:-------------------------:|:------------------------------------------------:
 ![My First App Screenshot](img/a3sql1.png)  |  ![My First App Screenshot](img/a3sql2.png)  | ![gif](img/a3sql3.png)
 
 *Screenshot of populated tables*:
 
-![Table 1 Screenshot](img/table1.png)
-![Table 2 Screenshot](img/table2.png) 
+![Table 1 Screenshot](img/a3tables.png)
 
 #### Tutorial Links:
 
