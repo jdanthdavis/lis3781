@@ -3,58 +3,39 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS3781 Advanced Database Management
 
-## Your Name
+## Justin Davis
 
-### Assignment # Requirements:
+### Assignment #2 Requirements:
 
-*Sub-Heading:*
+[comment]: <> (>*Sub-Heading:*)
 
-1. Ordered-list items
-2. 
-3. 
+1. Tables and insert statements.
+2. Include indexes and foreign key SQL statements.
+3. Include *your* query result sets, including grant statements.
+4. The following tables should be created and populated with at least 5 records *both* locally and to the CCI server.
+5. Provide me with *read-only* access to Bitbucket repository
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+* Screenshot of *your* SQL Code.
+* Screenshot of *your* populated tables.
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of SQL Code*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+Screenshot of SS1             |  Screenshot of SS2             | Screenshot of SS3             
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![My First App Screenshot](img/a3sql1.png)  |  ![My First App Screenshot](img/a3sql2.png)  | ![gif](img/a3sql3.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of populated tables*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
+![Table 1 Screenshot](img/table1.png)
+![Table 2 Screenshot](img/table2.png) 
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jd19z/bitbucketstationlocations/ "Bitbucket Station Locations")
