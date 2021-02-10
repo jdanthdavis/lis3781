@@ -21,7 +21,10 @@ LIS3781 Requirements:
     - The following tables should be created and populated with at least 5 records *both* locally and to the CCI server
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - Log into Oracle Server using RemoteLabs.
+    - Create and populate Oracle tables.
+    - Tables and data: Using *only* SQL.
+    - SQL solutions.
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD

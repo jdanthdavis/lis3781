@@ -11,11 +11,9 @@
 
 [comment]: <> (>*Sub-Heading:*)
 
-1. Tables and insert statements.
-2. Include indexes and foreign key SQL statements.
-3. Include *your* query result sets, including grant statements.
-4. The following tables should be created and populated with at least 5 records *both* locally and to the CCI server.
-5. Provide me with *read-only* access to Bitbucket repository
+1. Log into Oracle Server using RemoteLabs.
+2. Create and populate Oracle tables.
+3. Provide me with *read-only* access to Bitbucket repository
 
 #### README.md file should include the following items:
 
