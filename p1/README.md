@@ -3,58 +3,35 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS3781 Advanced Database Management
 
-## Your Name
+## Justin Davis
 
-### Assignment # Requirements:
+### Assignment P1 Requirements:
 
-*Sub-Heading:*
-
-1. Ordered-list items
-2. 
-3. 
+1. ERD (in .mwb format).
+2. SQL Statement Questions.
+3. Include 15 records in the person table and 5 records in all other tables.
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screnshot of *your* ERD.
+* Optional: SQL code for the required reports.
+* Bitbucket repo links: *Your* lis3781 Bitbucket repo link.
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
+### Assignment Links:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+*P1 SQL Code*:
+
+[P1 .SQL File](docs/lis3781_p1_solutions.sql)
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of P1 ERD*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
-
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
+![P1 ERD](img/erd.png)
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
