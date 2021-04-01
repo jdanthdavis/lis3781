@@ -25,10 +25,16 @@ LIS3781 Requirements:
     - SQL solutions.
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+    - Using RemoteLabs, log into SQL Server
+    - *Must* populate tables using T-SQL *or* Table Designer
+    - *FK:* Must require ON DELETE CASCADE, ON UPDATE CASCADE
+    - Include at least 10 *unique* records in the person table, and at least 5 *unique* records in all other tables
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Using RemoteLabs, log into SQL Server
+    - *Must* populate tables using T-SQL *or* Table Designer
+    - *FK:* Must require ON DELETE CASCADE, ON UPDATE CASCADE
+    - Include at least 25 *unique* records in the sales table, and at least 5 *unique* records in all other tables
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - ERD (in .mwb format)
