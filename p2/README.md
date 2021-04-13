@@ -3,58 +3,35 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS3781 Advanced Database Management
 
-## Your Name
+## Justin Davis
 
-### Assignment # Requirements:
+### Assignment P2 Requirements:
 
-*Sub-Heading:*
-
-1. Ordered-list items
-2. 
-3. 
+1. *Import data into the collection: Place primer-dataset.json in bin directory!*
+2. Complete all queries from restaurant collection in test db
+3. Provide *Bitbucket* read-only access to *course* repo
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* *Screenshot* of at least one MongoDB shell command(s), (e.g., show collections)
+* *Optional:* JSON code for the required reports
+* Bitbucket repo links: *Your* lis3781 Bitbucket repo link.
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
+#### Assignment Links:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+*P2 JSON Code*:
+
+[P2 JSON](docs/p2_code.js)
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of MongoDB Command*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
-
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
+![MongoDB Command](img/monogo.png)
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
