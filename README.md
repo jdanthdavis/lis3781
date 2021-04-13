@@ -42,4 +42,6 @@ LIS3781 Requirements:
     - Include 15 records in the person table and 5 records in all other tables.
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Import data into the collection: Place primer-dataset.json in bin directory!
+    - Complete all queries from restaurant collection in test db
+    - Provide *Bitbucket* read-only access to *course* repo
