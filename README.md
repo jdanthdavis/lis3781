@@ -1,8 +1,8 @@
-LIS3781 Advanced Database Management
+# LIS3781 Advanced Database Management
 
-Justin Davis
+## Justin Davis
 
-LIS3781 Requirements:
+### LIS3781 Requirements:
 
 [comment]: <> (*Course Work Links:*)
 
